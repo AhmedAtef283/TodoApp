@@ -36,7 +36,7 @@ class ProfileScreen extends StatelessWidget {
                 child: Text('Ahmed Atef',
                     style: TextStyle(
                         fontWeight: FontWeight.bold, color: Colors.blue,fontSize: 15.0,
-                    )),
+                    )),git init
 
               ),
             ),
